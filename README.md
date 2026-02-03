@@ -1,6 +1,6 @@
 # Hi there! We are CFrame. 👋
 
-**Design. Code. Deploy.**
+**Engineering Precision. Scalable Architecture. Business Logic.**
 
 We are a full-cycle software development studio. We transform business ideas into high-performance digital products.
 Our expertise covers the entire roadmap: from **UI/UX prototyping** in Figma to scalable **Frontend** on Next.js and robust **Backend** on Python.
